@@ -1,7 +1,0 @@
-[package]
-name = "gui-iced-basic"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-iced = { version = "0.13", features = ["wgpu", "window"] }
